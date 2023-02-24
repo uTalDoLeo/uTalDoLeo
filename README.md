@@ -1,16 +1,12 @@
-## Oiii eu sou o Leo, criadora de conteúdo de entreterimento e tecnologia!
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/509852197698404372/a_ef2c8ccf3a6d2186d27f143e1e7e17bd.gif?size=2048">
-</div>
+<h1 align="center">Hi 👋, I'm Alfin Auzikri</h1>
+<h4 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving..</h4>
+<p align="center"><img alt="Alfin Auzikri" unselectable="on" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="center">
+<!-- <img width="500" src="https://raw.githubusercontent.com/alfinauzikri/alfinauzikri/main/assets/cover.gif"/><br> -->
+<img unselectable="on" src="http://github-readme-streak-stats.herokuapp.com?user=alfinauzikri&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=alfinauzikri&show_icons=true&locale=en&include_all_commits=true&hide=contribs&count_private=true"/><br> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfinauzikri&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true"/> -->
+</p>
   
   ##
  
