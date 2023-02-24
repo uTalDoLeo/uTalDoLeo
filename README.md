@@ -29,4 +29,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [WebSite - AloneHosting](https://www.alone.ovh/)<br/>
 - [?????]
 
-![snake gif](https://github.com/uTalDoLeo/uTalDoLeo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yLeo/yLeo/blob/output/github-contribution-grid-snake.svg)
