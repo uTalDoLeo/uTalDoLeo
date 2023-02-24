@@ -1,3 +1,7 @@
+## Olá! Eu sou o Leandro 🖐️
+
+
+[![Site](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://www.alone.ovh/)
 
 ## Tecnologias que eu uso no meu dia
 
