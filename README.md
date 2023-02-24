@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alfin Auzikri</h1>
+<h1 align="center">Hi 👋, I'm yLeo </h1>
 <h4 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving..</h4>
-<p align="center"><img alt="Alfin Auzikri" unselectable="on" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="center"><img alt="uTalDoLeo" unselectable="on" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <p align="center">
 <!-- <img width="500" src="https://raw.githubusercontent.com/alfinauzikri/alfinauzikri/main/assets/cover.gif"/><br> -->
 <img unselectable="on" src="http://github-readme-streak-stats.herokuapp.com?user=alfinauzikri&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/><br>
