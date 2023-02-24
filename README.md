@@ -27,6 +27,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Discord - AloneHosting](https://discord.gg/FWhjV69FPT)<br/>
 - [Discord - RedeAlone](https://discord.gg/redealone)<br/>
 - [WebSite - AloneHosting](https://www.alone.ovh/)<br/>
-- [?????]
 
 ![snake gif](https://github.com/uTalDoLeo/uTalDoLeo/blob/output/github-contribution-grid-snake.svg)
