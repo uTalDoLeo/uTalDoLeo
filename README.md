@@ -18,7 +18,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/509852197698404372/a_ef2c8ccf3a6d2186d27f143e1e7e17bd.gif?size=2048">
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
