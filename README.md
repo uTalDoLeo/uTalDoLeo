@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leandro 🖐️
 
 
-[![Site](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.alone.ovh/)
+[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.alone.ovh/)
 
 ## Tecnologias que eu uso no meu dia
 
