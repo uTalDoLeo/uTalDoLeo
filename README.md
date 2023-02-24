@@ -2,6 +2,7 @@
 
 
 [![Site](https://img.shields.io/website?label=Alone.ovh.com&style=for-the-badge&url=https://www.alone.ovh/)](https://www.alone.ovh/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/redealone)
 
 ## Tecnologias que eu uso no meu dia
 
