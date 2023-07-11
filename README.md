@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Leandro 🖐️
 
 
-[![Site](https://img.shields.io/website?label=Alone.ovh&style=for-the-badge&url=https://www.alone.ovh/)](https://www.alone.ovh/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/redealone)
 
 ![yLeo GitHub stats](https://github-readme-stats.vercel.app/api?username=utaldoleo&show_icons=true&theme=tokyonight)
